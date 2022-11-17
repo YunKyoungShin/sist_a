@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 a입니닥
 hello
+=======
+﻿a입니닥
+korea
+>>>>>>> ffaa3be776c60e1ff528da5ac48f035656296d8f
